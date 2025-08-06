@@ -1,6 +1,6 @@
 # Synap-2b
 
-<img src="https://huggingface.co/lxcorp/Synap-2b/resolve/main/synap_logo.png" width="400" align="center">
+<img src="/logo.png">
 
 ## 📖 Sobre o Modelo
 
