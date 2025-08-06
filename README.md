@@ -35,7 +35,7 @@ print(text)
 Quer experimentar o modelo sem baixar nada?  
 Basta clicar no botão abaixo para abrir a área interativa de testes no Hugging Face Spaces:
 
-[![Abrir Space](https://img.shields.io/badge/🚀_Testar_no_Space-Synap--2b-success?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/lxcorp/Synap)
+[![Abrir Space](https://img.shields.io/badge/🚀_Testar_no_Space-Synap--2b-success?style=for-the-badge&logo=huggingface)](https://lxcorp-synap.hf.space)
 
 🔗 [Repositório do Modelo](https://huggingface.co/lxcorp/Synap-2b)
 
